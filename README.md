@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @AmitOnCode
-- 👀 I’m interested in data science...
-- 🌱 I’m currently learning data anlysis using python...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Amit Kumar (@AmitOnCode)
 
-<!---
-AmitOnCode/AmitOnCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m **Amit Kumar**, a passionate software engineer and data enthusiast.
+
+## 👀 Interests
+- Software Engineering
+- C++ and Data Structures & Algorithms (DSA)
+- Data Analysis with Python
+- Android Development
+
+## 🌱 Current Learning
+- Mastering C++ with DSA
+- Exploring Data Analysis with Python
+- Learning Android Development
+
+## 💞️ Looking to Collaborate on
+- Open-source projects
+- Coding challenges
+- Innovative app development
+- Data analysis projects
+
+## 📫 How to Reach Me
+- Email: [royalamitkumar911@gmail.com](mailto:royalamitkumar911@gmail.com)
+- LinkedIn: [Amit Kumar](https://www.linkedin.com/in/amit-kumar-1598b62aa/)
+- GitHub: [AmitOnCode](https://github.com/AmitOnCode)
+
+## 😄 Pronouns: He/Him
+
+## ⚡ Fun Fact
+I enjoy turning raw data into meaningful insights, and debugging code feels like solving puzzles!
+
