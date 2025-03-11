@@ -6,12 +6,10 @@
 - Software Engineering
 - C++ and Data Structures & Algorithms (DSA)
 - Data Analysis with Python
-- Android Development
 
 ## 🌱 Current Learning
 - Mastering C++ with DSA
 - Exploring Data Analysis with Python
-- Learning Android Development
 
 ## 💞️ Looking to Collaborate on
 - Open-source projects
